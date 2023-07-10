@@ -1,4 +1,6 @@
-# GenAI-SongRecommender
+This is a simple song recommendation tool I created while learning how to build applications with chatGPT API.
+
+
 
 Install VS Code
 Download the index.html, server.js, script.js and .env file in your root folder.
